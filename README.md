@@ -18,13 +18,14 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
+        <li><a href="#">Practice Areas</a></li>
+        <li><a href="#">Our Vision</a></li>
+          <li><a href="#">Attorneys</a></li>
+         <li><a href="#">Contact</a></li>
+       <nav class="navbar navbar-inverse">
+          </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-      </ul>
+        </ul>
     </div>
   </div>
 </nav>
